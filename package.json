@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "dat.gui": "^0.7.7",
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   }
 }
